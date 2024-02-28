@@ -1,5 +1,6 @@
-public class demo{
+public class raji{
     public static void main (string[] args)
       { System.out.println("helllo goodmorning")
        }
 }
+
